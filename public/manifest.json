@@ -1,0 +1,26 @@
+{
+  "short_name": "Amazon Services",
+  "name": "Sell on Amazon",
+  "description": "Start selling on Amazon today!",
+  "icons": [
+    {
+      "src": "https://m.media-amazon.com/images/G/31/amazonservices/INwebsite/services-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://m.media-amazon.com/images/G/31/amazonservices/INwebsite/services-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://m.media-amazon.com/images/G/31/amazonservices/INwebsite/services-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#ff9900",
+  "theme_color": "#1c6c87",
+  "display": "standalone"
+}
